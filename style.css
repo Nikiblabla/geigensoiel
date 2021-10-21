@@ -1,0 +1,51 @@
+.game{
+
+	text-align: center;
+	position: relative;
+	top: 200px;
+}
+#bb{
+	font-size: 23px;
+}
+body{
+	background-image: url(w.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: ghostwhite;
+}
+button{
+	width: 170px;
+	color: snow;
+	background-color: transparent;
+	outline: none;
+	border: none;
+	font-size: 17px;
+	padding: 8px 0;
+	transition: 0.7s;
+
+}
+
+button:hover{
+cursor: pointer;
+color: skyblue;
+
+}
+input{
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.gg{
+	font-size: 25px;
+}
+h1{
+	font-size: 40px;
+}
+#f{
+	width: 109%;
+	position: relative;
+	bottom: 280px;
+	right: 70px;
+	display: none;
+	height: 1000px;
+}
